@@ -46,8 +46,10 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 
 
 # OUTPUT
+
 <img width="751" height="712" alt="image" src="https://github.com/user-attachments/assets/ab935283-c1b8-4c95-8f1a-9ffe151376f4" />
 
 
 # RESULT
+
 Thus , generate design of low pass FIR digital filter using SCILAB are verified.
